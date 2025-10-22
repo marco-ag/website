@@ -2,7 +2,7 @@
 title: "Clegen"
 description: "Generate modules with clean architecture for Typescript projects"
 date: "03/26/2024"
-repoURL: "https://github.com/mvrcoag/clegen"
+repoURL: "https://github.com/marco-ag/clegen"
 ---
 
 <div align="center">
