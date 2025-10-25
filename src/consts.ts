@@ -15,7 +15,7 @@ export const HOME: Metadata = {
 
 export const BLOG: Metadata = {
   TITLE: "Blog",
-  DESCRIPTION: "A digital record of my reflections.",
+  DESCRIPTION: "A digital record of my reflections",
 };
 
 export const PROJECTS: Metadata = {
